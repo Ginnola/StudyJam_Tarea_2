@@ -1,7 +1,7 @@
 # Solución Tarea 2 - Study Jam
 
 Dentro de este repositorio se encuentra la tarea 2 del Study Jam, en el cual
-se hizo una aplicación móvil de una Calculadora.
+se hizo la aplicación móvil de una Calculadora.
 
 ## Requerimientos
 
